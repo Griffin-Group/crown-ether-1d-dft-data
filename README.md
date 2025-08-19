@@ -45,6 +45,17 @@ followed up by a self-consistent calculation of the polarization (`2.pol`)
 
 The polarization was then calculated using Pymatgen.
 
+## Licenses
+
+The contents are Copyright 2025 Bernard Field (as far as possible).
+
+The data and documentation is licensed under
+[Creative Commons Attribution 4.0 International](https://creativecommons.org/licenses/by/4.0/)
+(CC-BY 4.0).
+
+The code files (.py, slurm\_script, .sbatch) are licensed under the 
+[MIT license](https://opensource.org/license/mit).
+
 ## Acknowledgements
 
 We thank Ella Banyas for assistance and advice regarding the polarization calculations.
