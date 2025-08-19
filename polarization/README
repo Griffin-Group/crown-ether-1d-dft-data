@@ -1,0 +1,22 @@
+Polarization calculation, using structures from pseudo_cifs.
+
+step_10 is the polar structure calculated in 5.magrelax (put into rhombohedral setting).
+step_0 is the nonpolar "parent" structure.
+step_11 is a modification of our structure, where the MnBr4 tetrahedron has
+been artificially symmetrised so the bond along the chain is the same length
+as the other bonds. (I didn't correct the bond angles in this one, though. See step_12 for full symmetrisation.)
+step_12 is a modification of our structure, where the MnBr4 tetrahedron has been artificially symmetrised to restore full tetrahedral symmetry.
+
+get_polarization.py - Takes a list of directories containing VASP OUTCAR and POSCAR files, each representing a step in a polarization calculation.
+Prints out the polarization, by the modern theory of polarization (as
+implemeneted in Pymatgen). Supports full DFT polarization as well as the simplified point-charge model using formal charges.
+
+polarization - output of get_polarization.py for standard DFT polarization.
+
+polarization_formal - standard point-charge model polarization.
+
+polarization_samelen_tet, polarization_formal_samelen_tet - polarization with step_11 as the end-point.
+
+polarization_symmetric_tet, polarization_formal_symmetric_tet - polarization with step_12 as the end-point.
+
+vasp.sbatch - Slurm job script for polarization DFT calculation.

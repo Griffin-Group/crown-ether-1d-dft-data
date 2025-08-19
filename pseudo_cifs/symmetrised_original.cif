@@ -1,0 +1,56 @@
+
+#======================================================================
+# CRYSTAL DATA
+#----------------------------------------------------------------------
+data_VESTA_phase_1
+
+_chemical_name_common                  'generated_by_bilbao_crystallographic_s'
+_cell_length_a                         14.061800
+_cell_length_b                         14.061800
+_cell_length_c                         9.851300
+_cell_angle_alpha                      90.000000
+_cell_angle_beta                       90.000000
+_cell_angle_gamma                      120.000000
+_cell_volume                           1686.964800
+_space_group_name_H-M_alt              'R 3'
+_space_group_IT_number                 146
+
+loop_
+_space_group_symop_operation_xyz
+   'x, y, z'
+   '-y, x-y, z'
+   '-x+y, -x, z'
+   'x+2/3, y+1/3, z+1/3'
+   '-y+2/3, x-y+1/3, z+1/3'
+   '-x+y+2/3, -x+1/3, z+1/3'
+   'x+1/3, y+2/3, z+2/3'
+   '-y+1/3, x-y+2/3, z+2/3'
+   '-x+y+1/3, -x+2/3, z+2/3'
+
+loop_
+   _atom_site_label
+   _atom_site_occupancy
+   _atom_site_fract_x
+   _atom_site_fract_y
+   _atom_site_fract_z
+   _atom_site_adp_type
+   _atom_site_U_iso_or_equiv
+   _atom_site_type_symbol
+Ba1   1.0   0.333334   0.666667   0.557428  Usio  ? Ba
+Mn2   1.0   0.333334   0.666667   0.158019  Usio  ? Mn
+H3    1.0   0.132631   0.287676   0.663982  Usio  ? H
+H4    1.0   0.138290   0.352371   0.505777  Usio  ? H
+H5    1.0   0.040283   0.554809   0.766708  Usio  ? H
+H6    1.0   0.948752   0.490121   0.627511  Usio  ? H
+H7    1.0   0.995815   0.345257   0.665674  Usio  ? H
+H8    1.0   0.101635   0.426656   0.785455  Usio  ? H
+H9    1.0   0.345995   0.418999   0.480335  Usio  ? H
+H10   1.0   0.313100   0.327490   0.620422  Usio  ? H
+C11   1.0   0.153210   0.366360   0.615842  Usio  ? C
+C12   1.0   0.035075   0.547873   0.655095  Usio  ? C
+C13   1.0   0.083152   0.408520   0.676426  Usio  ? C
+C14   1.0   0.341810   0.413513   0.592050  Usio  ? C
+Br15  1.0   0.515291   0.757896   0.275475  Usio  ? Br
+Br16  1.0   0.333334   0.666667   0.908485  Usio  ? Br
+O17   1.0   0.105031   0.507492   0.606984  Usio  ? O
+O18   1.0   0.266482   0.447005   0.640417  Usio  ? O

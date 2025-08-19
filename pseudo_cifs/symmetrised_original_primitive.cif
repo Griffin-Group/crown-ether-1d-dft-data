@@ -1,0 +1,50 @@
+
+#======================================================================
+# CRYSTAL DATA
+#----------------------------------------------------------------------
+data_VESTA_phase_1
+
+_chemical_name_common                  'generated_by_bilbao_crystallographic_s'
+_cell_length_a                         8.757541
+_cell_length_b                         8.757541
+_cell_length_c                         8.757541
+_cell_angle_alpha                      106.804230
+_cell_angle_beta                       106.804230
+_cell_angle_gamma                      106.804230
+_cell_volume                           562.321488
+_space_group_name_H-M_alt              'R 3'
+_space_group_IT_number                 146
+
+loop_
+_space_group_symop_operation_xyz
+   'x, y, z'
+   'z, x, y'
+   'y, z, x'
+
+loop_
+   _atom_site_label
+   _atom_site_occupancy
+   _atom_site_fract_x
+   _atom_site_fract_y
+   _atom_site_fract_z
+   _atom_site_adp_type
+   _atom_site_U_iso_or_equiv
+   _atom_site_type_symbol
+   Ba1        1.0     0.890761     0.890761    -0.109239    Uiso  ? Ba
+   Mn2        1.0     0.491352     0.491352    -0.508648    Uiso  ? Mn
+   H3         1.0     0.796613     0.819027     0.376306    Uiso  ? H
+   H4         1.0     0.644067     0.719858     0.153406    Uiso  ? H
+   H5         1.0     0.806991     1.281234     0.211899    Uiso  ? H
+   H6         1.0     1.576263     0.168880     0.137390    Uiso  ? H
+   H7         1.0     1.661489     0.015116     0.320417    Uiso  ? H
+   H8         1.0     0.887090     1.110476     0.358799    Uiso  ? H
+   H9         1.0     0.826330     0.553339     0.061336    Uiso  ? H
+   H10        1.0     0.933522     0.634812     0.292932    Uiso  ? H
+   C11        1.0     0.769052     0.828992     0.249482    Uiso  ? C
+   C12        1.0     0.690170     1.167893     0.107222    Uiso  ? C
+   C13        1.0     0.759759     1.001613     0.267906    Uiso  ? C
+   C14        1.0     0.933860     0.663753     0.178537    Uiso  ? C
+   Br15       1.0     0.790766     0.518080    -0.482421    Uiso  ? Br
+   Br16       1.0     1.241818     1.241818     0.241818    Uiso  ? Br
+   O17        1.0     0.712015     1.009445     0.099492    Uiso  ? O
+   O18        1.0     0.906899     0.820940     0.193412    Uiso  ? O

@@ -1,0 +1,45 @@
+
+#======================================================================
+# CRYSTAL DATA
+#----------------------------------------------------------------------
+data_VESTA_phase_1
+
+_chemical_name_common                  'generated_by_bilbao_crystallographic_s'
+_cell_length_a                         8.757541
+_cell_length_b                         8.757541
+_cell_length_c                         8.757541
+_cell_angle_alpha                      106.804230
+_cell_angle_beta                       106.804230
+_cell_angle_gamma                      106.804230
+_cell_volume                           562.321488
+_space_group_name_H-M_alt              'R -3'
+_space_group_IT_number                 148
+
+loop_
+_space_group_symop_operation_xyz
+   'x, y, z'
+   '-x, -y, -z'
+   'z, x, y'
+   '-z, -x, -y'
+   'y, z, x'
+   '-y, -z, -x'
+
+loop_
+   _atom_site_label
+   _atom_site_occupancy
+   _atom_site_fract_x
+   _atom_site_fract_y
+   _atom_site_fract_z
+   _atom_site_adp_type
+   _atom_site_U_iso_or_equiv
+   _atom_site_type_symbol
+   Ba1        1.0     1.000000     1.000000     0.000000    Uiso  ? Ba
+   Mn2        1.0     0.500000     0.500000    -0.500000    Uiso  ? Mn
+   H3         1.0     0.813860     0.840820     0.400020    Uiso  ? H
+   H4         1.0     0.681420     0.753970     0.173210    Uiso  ? H
+   H8         1.0     0.912880     1.142247     0.402563    Uiso  ? H
+   H10        1.0     0.959200     0.657200     0.315720    Uiso  ? H
+   C11        1.0     0.800580     0.860890     0.279650    Uiso  ? C
+   C13        1.0     0.790520     1.033960     0.302070    Uiso  ? C
+   Br15       1.0     0.774470     0.638130    -0.362120    Uiso  ? Br
+   O17        1.0     0.759300     1.051270     0.139280    Uiso  ? O

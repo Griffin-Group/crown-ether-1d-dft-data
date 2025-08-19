@@ -1,0 +1,32 @@
+Same-branch polarization
+[[ 7.23612177e-07  1.82949120e-04  7.48564326e-07]
+ [-7.58583990e-01 -7.58419987e-01 -7.58584412e-01]
+ [-1.51716870e+00 -1.51702292e+00 -1.51716957e+00]
+ [-2.27575342e+00 -2.27562586e+00 -2.27575473e+00]
+ [-3.03433813e+00 -3.03422880e+00 -3.03433989e+00]
+ [-3.79292285e+00 -3.79283173e+00 -3.79292505e+00]
+ [-4.55150756e+00 -4.55143467e+00 -4.55151021e+00]
+ [-5.31009227e+00 -5.31003761e+00 -5.31009537e+00]
+ [-6.06867699e+00 -6.06864054e+00 -6.06868053e+00]
+ [-6.82726170e+00 -6.82724348e+00 -6.82726570e+00]
+ [-7.58584641e+00 -7.58584641e+00 -7.58585086e+00]
+ [-5.01992100e+00 -5.01992100e+00 -5.01992245e+00]]
+Polarization change (in basis of polar lattice vectors)
+[[-5.01992172 -5.02010395 -5.0199232 ]]
+Magnitude of polarization change in microC/cm^2
+5.646945763668132
+Partial polarization for Br
+Polarization change (in basis of polar lattice vectors)
+[[0.86310891 0.86292669 0.86311188]]
+Magnitude of polarization change in microC/cm^2
+0.9708383289161392
+Partial polarization for Mn
+Polarization change (in basis of polar lattice vectors)
+[[-0.43155482 -0.43155482 -0.43155631]]
+Magnitude of polarization change in microC/cm^2
+0.485453732706708
+Partial polarization for Ba
+Polarization change (in basis of polar lattice vectors)
+[[-5.45147582 -5.45147582 -5.45147876]]
+Magnitude of polarization change in microC/cm^2
+6.132330342432919
