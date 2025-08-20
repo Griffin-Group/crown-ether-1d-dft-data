@@ -1,5 +1,7 @@
 # Data for DFT polarization calculations in "Supramolecular assembly of metal halide molecular wires"
 
+[![DOI](https://zenodo.org/badge/1040434739.svg)](https://doi.org/10.5281/zenodo.16914630)
+
 If you use this data, please cite:
 
 	Heqing Zhu, Cheng Zhu, Han K.D. Le, Daniel Cabeda, Bernard Field, Chuxi Wen, Alexander M. Oddo, Yuxin Jiang, Lihini Jayasinghe, Yu Shan, Lior Verbitsky, Harishankar Jayakumar, Sinéad M. Griffin, Eran Rabani, & Peidong Yang, "Supramolecular assembly of metal halide molecular wires", Nature Chemistry 2025 (under review).
