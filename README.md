@@ -2,7 +2,7 @@
 
 If you use this data, please cite:
 
-	Heqing Zhu, CHeng Zhu, Han K. D. Le, Daniel Cabeda, Bernard Field, Chuxi Wen, Alexander M. Oddo, Yuxin Jiang, Lihini Jayasinghe, Yu Shan, Lior Verbitsky, Harishankar Jayakumar, Sinéad M. Griffin, Eran Rabani, & Peidong Yang, "Supramolecular assembly of metal halide molecular wires", Nature Chemisty 2025 (under review).
+	Heqing Zhu, Cheng Zhu, Han K.D. Le, Daniel Cabeda, Bernard Field, Chuxi Wen, Alexander M. Oddo, Yuxin Jiang, Lihini Jayasinghe, Yu Shan, Lior Verbitsky, Harishankar Jayakumar, Sinéad M. Griffin, Eran Rabani, & Peidong Yang, "Supramolecular assembly of metal halide molecular wires", Nature Chemisty 2025 (under review).
 
 This dataset is the data for the density functional theory (DFT) calculations used to calculate the polarization of (18-crown-6@Ba)MnBr4.
 It was created by Bernard Field (Lawrence Berkeley National Laboratory).
