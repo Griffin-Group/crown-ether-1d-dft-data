@@ -17,6 +17,7 @@ Prints out the polarization, by the modern theory of polarization (as
 implemeneted in Pymatgen). Supports full DFT polarization as well as the simplified point-charge model using formal charges.
 
 polarization - output of get_polarization.py for standard DFT polarization.
+It is plotted in polarization_branch.png.
 
 polarization_formal - standard point-charge model polarization.
 
