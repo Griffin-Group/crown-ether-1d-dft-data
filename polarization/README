@@ -7,6 +7,11 @@ been artificially symmetrised so the bond along the chain is the same length
 as the other bonds. (I didn't correct the bond angles in this one, though. See step_12 for full symmetrisation.)
 step_12 is a modification of our structure, where the MnBr4 tetrahedron has been artificially symmetrised to restore full tetrahedral symmetry.
 
+step_4_wrongmag - The original step_4 ended in a low-spin configuration.
+This resulted in a kink in the polarization.
+step_4 - This step has the net magnetic moment enforced (through NUPDOWN).
+This restored smoothness to the polarization.
+
 get_polarization.py - Takes a list of directories containing VASP OUTCAR and POSCAR files, each representing a step in a polarization calculation.
 Prints out the polarization, by the modern theory of polarization (as
 implemeneted in Pymatgen). Supports full DFT polarization as well as the simplified point-charge model using formal charges.
